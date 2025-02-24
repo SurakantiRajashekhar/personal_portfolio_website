@@ -1,0 +1,15 @@
+[
+  {
+    "title": "ToDo List Application",
+    "type": "Front-End development",
+    "description": [
+      "Developed a fully responsive ToDo List application using React.js, Empployed modern development practices, including custom hooks, Context API for state management, and module CSS for styling",
+      "Allows users to add, delete,delete,clearAll and mark tasks as completed.",
+      "Supports persistent data storage using the browser's local storage, ensuring tasks remain saved between sessions.",
+      "Responsive design that works seamlessly across desktop, tablet, and mobile devices.",
+      "No backend required, fully functional in the browser for a lightweight experience."
+    ],
+    "demoLink": "https://surakantirajashekhar.github.io/todo_list_demo/",
+    "githubLink": "https://github.com/SurakantiRajashekhar/todolist_sourcecode"
+  }
+]

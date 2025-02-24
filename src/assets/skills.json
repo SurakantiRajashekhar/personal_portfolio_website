@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Frontend",
+    "description": "Development technologies",
+    "items": [
+      "HTML5",
+      "CSS/SCSS",
+      "Tailwind CSS",
+      "JavaScript",
+      "TypeScript",
+      "JQuery",
+      "React.js",
+      "Next.js"
+    ]
+  },
+  {
+    "title": "Backend",
+    "description": "Server technologies",
+    "items": ["Node.js", "Express.js"]
+  },
+  {
+    "title": "DataBase",
+    "description": "Infrastructure & deployment",
+    "items": ["MySQL", "PL/SQL", "MongoDB"]
+  },
+  {
+    "title": "Tools",
+    "description": "Development tools",
+    "items": ["Git / GitHub", "VS Code", "Jira", "Figma"]
+  }
+]
